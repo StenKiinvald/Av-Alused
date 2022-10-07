@@ -1,15 +1,24 @@
 # Suur pealkiri
 ## Alampealkiri1
-SkSK. SKSK,,,
+
 SKSK...SK
-.
+Sk
 
 SKSKKS
-## Alampealkiri2
-Sk
+
 ## loetelu
 - SK1
 - SK2
 - SK3
   -  Skd
   -  asdk
+## Kood
+Üks rida koodi
+
+`Kood`
+
+Koodiblokk
+```
+asdkfk adleod
+ggg
+```
